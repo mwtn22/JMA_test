@@ -1,8 +1,6 @@
 {
   "posts": [
     {
-          [
-      {
         "ctt": "20250906190000",
         "eid": "20250906185730",
         "rdt": "2025-09-06T19:00:00+09:00",
@@ -110,8 +108,6 @@
         "json": "20250906193000_20250906192700_VXSE5_1.json",
         "en_ttl": "Earthquake and Seismic Intensity Information",
         "en_anm": "Northern Tokyo Bay"
-      }
-    ]
     }
   ],
   "profile": {
